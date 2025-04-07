@@ -79,4 +79,4 @@ python test_zeroshot.py
 
 ## Citation
 
-Yalin Hou #, Yiming LI #, Chengqian Lu, Ruiqing Zheng, Fei Guo, Min Li, Min Zeng*, , "PLM-CRISPR: Leveraging Protein Language Models for Cross- CRISPR/Cas9-Variant sgRNA Activity Prediction".
+Yalin Hou #, Yiming Li #, Chengqian Lu, Ruiqing Zheng, Fei Guo, Min Li, Min Zeng*, , "Leveraging protein language models for cross-variant CRISPR/Cas9 sgRNA activity prediction".
