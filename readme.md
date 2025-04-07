@@ -79,4 +79,4 @@ python test_zeroshot.py
 
 ## Citation
 
-Yalin Hou1, #, Yiming Li1, #, Ruiqing Zheng1, Fuhao Zhang2, Fei Guo1, Min Li1, Min Zeng1, * "Leveraging protein language models for cross-variant CRISPR/Cas9 sgRNA activity prediction".
+Yalin Hou #, Yiming Li1 #, Ruiqing Zheng, Fuhao Zhang, Fei Guo, Min Li, Min Zeng*, "Leveraging protein language models for cross-variant CRISPR/Cas9 sgRNA activity prediction".
